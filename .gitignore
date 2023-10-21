@@ -52,5 +52,7 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
+.cache/
+
 # Files/Folders you want to be ignored
 __*
